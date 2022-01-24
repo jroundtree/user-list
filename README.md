@@ -17,7 +17,9 @@ Complies with Backend for CRUD functionality:
 
 Clone this repo, then make sure you have a `.env` file in your project root pointing your environment variable `REACT_APP_USERRESTAPI` to your Spring Boot Application URL. For example, `REACT_APP_USERRESTAPI=http://localhost:8080`.
 
-`npm install` runs the app in the development mode.
+`npm install`
+
+Then `npm start` runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 `npm run build` builds the app for production to the build folder.
